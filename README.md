@@ -7,10 +7,10 @@ Starting July of 2021, I was grinding LeetCode just to tackle data structures an
 
 ## What Did I Learn?
 Some things I learned in this project were 
-    * Using the script tag
-    * Working with variables, numbers, and strings
-    * Using console.log() 
-    * Creating functions
-    * What the DOM is
-    * Using getElementById() to manipulate HTML elements
-    * Using innerText and textContent and their differences
+* Using the script tag
+* Working with variables, numbers, and strings
+* Using console.log() 
+* Creating functions
+* What the DOM is
+* Using getElementById() to manipulate HTML elements
+* Using innerText and textContent and their differences
