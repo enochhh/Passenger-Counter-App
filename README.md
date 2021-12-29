@@ -14,3 +14,5 @@ Some things I learned in this project were
 * What the DOM is
 * Using getElementById() to manipulate HTML elements
 * Using innerText and textContent and their differences
+
+![image](https://user-images.githubusercontent.com/50684864/147643052-ef15cff3-b319-470e-9f8d-194ef17209f6.png)
